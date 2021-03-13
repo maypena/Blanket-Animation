@@ -1,6 +1,6 @@
 # May Pena
 # This prrogram creates a 600 by 600 blanket by drawing
-# different colored squares fillin the screen. 
+# different colored squares filling the screen. 
 
 from graphics import *
 from random import *
